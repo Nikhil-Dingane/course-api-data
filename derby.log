@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 10 09:14:51 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-761d-b15e-00000a346b00 
+on database directory memory:/home/shrikant/eclipse-workspace/course-api-data/6e206917-2556-4320-9227-251ef93b08e4 with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/shrikant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_265-8u265-b01-0ubuntu2~18.04-b01
+user.dir=/home/shrikant/eclipse-workspace/course-api-data
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-47-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
